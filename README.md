@@ -7,7 +7,7 @@
 ## 📞 Contact
 
 - **Phone:** +63 995-238-4920  
-- **Email:** [jayce.zioney@gmail.com](mailto:jayce.zioney@gmail.com)  
+- **Email:** [zioneyjayce@gmail.com](mailto:zioneyjayce@gmail.com)  
 
 ---
 
