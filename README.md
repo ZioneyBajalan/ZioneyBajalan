@@ -1,7 +1,6 @@
 # Zioney Jayce A. Bajalan
 
-### Aspiring Computer Science Student | Web Developer | Software Engineer Enthusiast
-
+### Aspiring Computer Science Student 
 ---
 
 ## 📞 Contact
@@ -20,18 +19,12 @@ I am an aspiring Computer Science student passionate about web development and s
 ## 🛠️ Technical Skills
 
 - **Programming Languages:**  
-  `Python`, `Java`, `C`, `C++`, `JavaScript`, `Dart`, `Swift`, `MIPS`, `PHP`  
+  `Python`, `Java`, `C`, `C++`, `JavaScript`, `MIPS`, `PHP`  
 - **Web Development:**  
-  `HTML5`, `CSS3`, `JavaScript`, `Blade`, `PHP`, `SQL`, `MySQL`, `PostgreSQL`  
+  `HTML5`, `CSS3`, `JavaScript`, `PHP`, `SQL`, `MySQL`
 - **Other Skills:**  
   Embedded Programming, Data Analysis & Gathering, Networking
 
 ---
 
-## 📂 GitHub
-
-[https://github.com/ZioneyBajalan](https://github.com/ZioneyBajalan)
-
----
-
-> _Feel free to connect with me for collaboration, mentorship, or any exciting opportunities in software development and computer science!_
+> _Feel free to connect with me for collaboration or any exciting opportunities in software development and computer science!_
